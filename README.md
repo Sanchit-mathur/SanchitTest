@@ -1,4 +1,4 @@
-   # SanchitTest
+# SanchitTest
 
 PART - A
 
